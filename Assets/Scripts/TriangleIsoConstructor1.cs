@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class TriangleIsoConstructor : MonoBehaviour
+public class TriangleIsoConstructor1 : MonoBehaviour
 {
     public GameObject brickPfb;
     public int width = 5;
